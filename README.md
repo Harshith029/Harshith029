@@ -181,9 +181,13 @@ fun_fact: "I don't have a suit — I have a keyboard.
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
+## <img src="assets/pulse.svg" width="28"/> `ESTABLISH UPLINK`
+
 <div align="center">
 
-## `ESTABLISH UPLINK`
+`> opening secure channel...`  `> encryption: enabled`  `> latency: ~24h`
+
+<br/>
 
 <a href="https://www.linkedin.com/in/krishnaharshith/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/></a>
 <a href="mailto:harshith.pali3286@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
@@ -194,7 +198,82 @@ fun_fact: "I don't have a suit — I have a keyboard.
 <a href="https://leetcode.com/u/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41"/></a>
 -->
 
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+`⚡ HIRING`
+
+<sub>Internships & full-time<br/>AI / backend / platform</sub>
+
+</td>
+<td align="center" width="34%">
+
+`🛠 COLLAB`
+
+<sub>Open source, agent tooling,<br/>dev-infra experiments</sub>
+
+</td>
+<td align="center" width="33%">
+
+`💬 JUST TALK`
+
+<sub>LLM guardrails, Postgres,<br/>or why your migration broke</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## <img src="assets/pulse.svg" width="28"/> `POWER THE REACTOR`
+
+<div align="center">
+
+<sub>`palladium core running low — refuels accepted in caffeine`</sub>
+
 <br/><br/>
+
+<a href="https://github.com/sponsors/Harshith029"><img src="https://img.shields.io/badge/Sponsor_on_GitHub-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=00FF41"/></a>
+<!-- Sign up at buymeacoffee.com / ko-fi.com with these handles, then uncomment:
+<a href="https://www.buymeacoffee.com/harshith029"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-0D1117?style=for-the-badge&logo=buymeacoffee&logoColor=00FF41"/></a>
+<a href="https://ko-fi.com/harshith029"><img src="https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=kofi&logoColor=00FF41"/></a>
+-->
+
+<br/><br/>
+
+<sub>`or just ⭐ a repo — costs nothing, powers everything`</sub>
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## <img src="assets/pulse.svg" width="28"/> `FIELD COMMENDATIONS`
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://cloud.layer5.io/user/6989cfad-e0f4-437f-8071-0133e1f70ad3?tab=badges&badge=certified-meshery-contributor"><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" /></a><br />
+      <sup><a href="https://badges.layer5.io">Get your own badge</a></sup>
+    </td>
+    <td align="center">
+      <a href="https://cloud.layer5.io/user/6989cfad-e0f4-437f-8071-0133e1f70ad3?tab=badges&badge=first-design"><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />
+      <sup><a href="https://badges.layer5.io">Get your own badge</a></sup>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<br/>
 
 ```console
 harshith@stark-industries:~$ sudo shutdown -h now
