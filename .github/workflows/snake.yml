@@ -14,13 +14,16 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Two variants so the grid stays readable in either GitHub theme.
+      # Dots use GitHub's real contribution greens; the snake is purple.
       - name: Generate snake from contribution grid
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#00ff41&color_dots=#0d1117,#003b00,#00701a,#00c72b,#00ff41
+            dist/snake-dark.svg?palette=github-dark&color_snake=#bc8cff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/snake.svg?palette=github-light&color_snake=#8957e5&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

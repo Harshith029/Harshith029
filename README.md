@@ -176,13 +176,13 @@ when two records are the same person without a shared key.
 
 <div align="center">
 
-<img src="assets/metrics-calendar.svg" width="98%" alt="contribution calendar"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshith029/Harshith029/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshith029/Harshith029/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Harshith029/Harshith029/output/snake-dark.svg" width="100%" alt="a snake eating my contribution grid"/>
+</picture>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Harshith029/Harshith029/output/snake.svg" width="98%" alt="contribution snake"/>
-
-<sub>the snake eats the same grid — regenerated every 12h by Actions</sub>
+<sub>a year of commits, eaten one square at a time — regenerated every 12h by Actions</sub>
 
 </div>
 
