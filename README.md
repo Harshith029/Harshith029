@@ -120,14 +120,14 @@ fun_fact: "I don't have a suit — I have a keyboard.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harshith029&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=9BE8A8&ring_color=00FF41" alt="stats"/>
+<img width="49%" src="assets/metrics.svg" alt="profile metrics"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=Harshith029&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BE8A8" alt="streak"/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith029&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=9BE8A8" alt="top languages"/>
+<img width="49%" src="assets/metrics-langs.svg" alt="most used languages"/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshith029&bg_color=0D1117&color=00FF41&line=00FF41&point=00D9FF&area=true&area_color=00FF41&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" alt="activity graph"/>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Harshith029&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<img width="98%" src="https://github-profile-trophy-omega.vercel.app/?username=Harshith029&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
