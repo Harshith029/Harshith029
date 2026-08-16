@@ -11,11 +11,19 @@ on:
 permissions:
   contents: write
 
+# Shared look: GitHub dark surface, contribution-green accents.
+env:
+  THEME_CSS: |
+    svg, .background { fill: #0d1117 !important; background: #0d1117 !important; }
+    h2, .title, .primary { color: #39d353 !important; fill: #39d353 !important; }
+    .value, .key, text { color: #c9d1d9 !important; }
+    svg { border: none !important; }
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      # Main card: profile header, repo totals, isometric contribution calendar
+      # Profile header, repo totals, isometric contribution calendar
       - name: Overview
         uses: lowlighter/metrics@latest
         with:
@@ -28,13 +36,9 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          extras_css: |
-            svg, .background { fill: #0d1117 !important; background: #0d1117 !important; }
-            h2, .title, .primary { color: #00ff41 !important; fill: #00ff41 !important; }
-            .value, .key, text { color: #9be8a8 !important; }
-            svg { border: none !important; }
+          extras_css: ${{ env.THEME_CSS }}
 
-      # Language breakdown, weighted by recent commits
+      # Language breakdown
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
@@ -49,8 +53,19 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          extras_css: |
-            svg, .background { fill: #0d1117 !important; background: #0d1117 !important; }
-            h2, .title, .primary { color: #00ff41 !important; fill: #00ff41 !important; }
-            .value, .key, text { color: #9be8a8 !important; }
-            svg { border: none !important; }
+          extras_css: ${{ env.THEME_CSS }}
+
+      # Full-year contribution grid — the real GitHub commit box
+      - name: Contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: Harshith029
+          filename: assets/metrics-calendar.svg
+          committer_branch: main
+          committer_message: "chore: refresh contribution calendar [skip ci]"
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          extras_css: ${{ env.THEME_CSS }}

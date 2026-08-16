@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="380" viewBox="0 0 920 380" role="img" aria-label="neofetch profile card">
+<rect x="0.5" y="0.5" width="919" height="379" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="919" height="38" rx="10" fill="#161b22"/>
+<rect x="0.5" y="28" width="919" height="11" fill="#161b22"/>
+<line x1="0" y1="39" x2="920" y2="39" stroke="#30363d"/>
+<circle cx="22" cy="19.5" r="6" fill="#ff5f56"/>
+<circle cx="41" cy="19.5" r="6" fill="#ffbd2e"/>
+<circle cx="60" cy="19.5" r="6" fill="#27c93f"/>
+<text x="460" y="24" text-anchor="middle" font-family="ui-monospace, monospace" font-size="12" fill="#8b949e">harshith029 — neofetch</text>
+<circle cx="70.0" cy="96.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.00s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.00s" repeatCount="indefinite"/></circle>
+<circle cx="94.0" cy="96.0" r="2.2" fill="#21262d"/>
+<circle cx="118.0" cy="96.0" r="2.2" fill="#21262d"/>
+<circle cx="142.0" cy="96.0" r="2.2" fill="#21262d"/>
+<circle cx="166.0" cy="96.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.48s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.48s" repeatCount="indefinite"/></circle>
+<circle cx="70.0" cy="120.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.05s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.05s" repeatCount="indefinite"/></circle>
+<circle cx="94.0" cy="120.0" r="2.2" fill="#21262d"/>
+<circle cx="118.0" cy="120.0" r="2.2" fill="#21262d"/>
+<circle cx="142.0" cy="120.0" r="2.2" fill="#21262d"/>
+<circle cx="166.0" cy="120.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.53s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.53s" repeatCount="indefinite"/></circle>
+<circle cx="70.0" cy="144.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.10s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.10s" repeatCount="indefinite"/></circle>
+<circle cx="94.0" cy="144.0" r="2.2" fill="#21262d"/>
+<circle cx="118.0" cy="144.0" r="2.2" fill="#21262d"/>
+<circle cx="142.0" cy="144.0" r="2.2" fill="#21262d"/>
+<circle cx="166.0" cy="144.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.58s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.58s" repeatCount="indefinite"/></circle>
+<circle cx="70.0" cy="168.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.15s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.15s" repeatCount="indefinite"/></circle>
+<circle cx="94.0" cy="168.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.27s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.27s" repeatCount="indefinite"/></circle>
+<circle cx="118.0" cy="168.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.39s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.39s" repeatCount="indefinite"/></circle>
+<circle cx="142.0" cy="168.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.51s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.51s" repeatCount="indefinite"/></circle>
+<circle cx="166.0" cy="168.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.63s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.63s" repeatCount="indefinite"/></circle>
+<circle cx="70.0" cy="192.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.20s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.20s" repeatCount="indefinite"/></circle>
+<circle cx="94.0" cy="192.0" r="2.2" fill="#21262d"/>
+<circle cx="118.0" cy="192.0" r="2.2" fill="#21262d"/>
+<circle cx="142.0" cy="192.0" r="2.2" fill="#21262d"/>
+<circle cx="166.0" cy="192.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.68s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.68s" repeatCount="indefinite"/></circle>
+<circle cx="70.0" cy="216.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.25s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.25s" repeatCount="indefinite"/></circle>
+<circle cx="94.0" cy="216.0" r="2.2" fill="#21262d"/>
+<circle cx="118.0" cy="216.0" r="2.2" fill="#21262d"/>
+<circle cx="142.0" cy="216.0" r="2.2" fill="#21262d"/>
+<circle cx="166.0" cy="216.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.73s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.73s" repeatCount="indefinite"/></circle>
+<circle cx="70.0" cy="240.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.30s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.30s" repeatCount="indefinite"/></circle>
+<circle cx="94.0" cy="240.0" r="2.2" fill="#21262d"/>
+<circle cx="118.0" cy="240.0" r="2.2" fill="#21262d"/>
+<circle cx="142.0" cy="240.0" r="2.2" fill="#21262d"/>
+<circle cx="166.0" cy="240.0" r="6.5" fill="#26a641"><animate attributeName="fill" values="#0e4429;#006d32;#26a641;#39d353;#26a641;#006d32;#0e4429" dur="3.2s" begin="-0.78s" repeatCount="indefinite"/><animate attributeName="r" values="6.5;7.2;6.5" dur="3.2s" begin="-0.78s" repeatCount="indefinite"/></circle>
+<text x="300" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="bold" fill="#39d353">harshith029<tspan fill="#8b949e">@</tspan>github</text>
+<line x1="300" y1="92" x2="894" y2="92" stroke="#30363d"/>
+<text x="300" y="116" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"><tspan fill="#39d353" font-weight="bold">Role     </tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#c9d1d9">AI Engineer / Full-Stack Developer</tspan></text>
+<text x="300" y="141" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"><tspan fill="#39d353" font-weight="bold">Languages</tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#c9d1d9">Python, JavaScript, TypeScript, Java</tspan></text>
+<text x="300" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"><tspan fill="#39d353" font-weight="bold">Focus    </tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#c9d1d9">Agent security · LLM tooling · Dev-infra</tspan></text>
+<text x="300" y="191" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"><tspan fill="#39d353" font-weight="bold">Building </tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#c9d1d9">safemigrate-lint · Sentinel · faultline</tspan></text>
+<text x="300" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"><tspan fill="#39d353" font-weight="bold">Learning </tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#c9d1d9">Distributed systems, system design</tspan></text>
+<text x="300" y="241" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"><tspan fill="#39d353" font-weight="bold">Editor   </tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#c9d1d9">VS Code · Neovim</tspan></text>
+<text x="300" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"><tspan fill="#39d353" font-weight="bold">Email    </tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#c9d1d9">harshith.pali3286@gmail.com</tspan></text>
+<text x="300" y="291" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5"><tspan fill="#39d353" font-weight="bold">Web      </tspan><tspan fill="#8b949e"> : </tspan><tspan fill="#c9d1d9">harshith029.github.io/Portfolio-v2</tspan></text>
+<rect x="300" y="322" width="26" height="13" rx="2" fill="#0e4429"/>
+<rect x="331" y="322" width="26" height="13" rx="2" fill="#006d32"/>
+<rect x="362" y="322" width="26" height="13" rx="2" fill="#26a641"/>
+<rect x="393" y="322" width="26" height="13" rx="2" fill="#39d353"/>
+<rect x="424" y="322" width="26" height="13" rx="2" fill="#58a6ff"/>
+<rect x="455" y="322" width="26" height="13" rx="2" fill="#bc8cff"/>
+<rect x="486" y="322" width="26" height="13" rx="2" fill="#f778ba"/>
+<rect x="517" y="322" width="26" height="13" rx="2" fill="#e3b341"/>
+</svg>

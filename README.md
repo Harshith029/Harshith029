@@ -1,86 +1,41 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  REMAINING TODO before you push:                             ║
-  ║   1. Repo MUST be named exactly  Harshith029  for this       ║
-  ║      to appear on your profile page.                         ║
-  ║   2. Run the "Generate Snake Animation" workflow once        ║
-  ║      (Actions tab -> Run workflow) to create the snake.      ║
-  ║  Everything else — username, projects, socials — is live.    ║
-  ╚══════════════════════════════════════════════════════════════╝
+  Profile README for github.com/Harshith029
+  SVG assets are generated — edit scripts/gen_assets.py and re-run:
+      python scripts/gen_assets.py
+  Stats / languages / contribution calendar are built by GitHub Actions
+  (.github/workflows/metrics.yml) and committed into assets/.
 -->
 
 <div align="center">
 
-<img src="assets/matrix-header.svg" width="100%" alt="Harshith — system online"/>
+<img src="assets/header.svg" width="100%" alt="Harshith"/>
 
-<a href="https://github.com/Harshith029">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=00FF41&center=true&vCenter=true&width=850&height=55&lines=Booting+J.A.R.V.I.S.+interface...;Welcome+back%2C+Sir.;AI+Engineer+%7C+Full-Stack+Developer;I+build+guardrails+for+AI+agents.;Python+%E2%80%A2+LLM+Tooling+%E2%80%A2+Postgres+%E2%80%A2+React;Wake+up...+the+code+has+you." alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=39D353&center=true&vCenter=true&width=780&height=42&lines=I+build+guardrails+for+AI+agents;Python+%C2%B7+TypeScript+%C2%B7+Postgres+%C2%B7+LLM+tooling;Currently+shipping+safemigrate-lint;Static+analysis+for+things+that+break+production" alt=""/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Harshith029&color=00FF41&style=for-the-badge&label=INTRUDERS+SCANNED"/>
-<img src="https://img.shields.io/github/followers/Harshith029?style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&logoColor=00FF41&label=ALLIES"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF41"/>
+<a href="https://github.com/Harshith029?tab=followers"><img src="https://img.shields.io/github/followers/Harshith029?style=flat-square&color=39d353&labelColor=161b22&logo=github&logoColor=white&label=followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=Harshith029&color=39d353&style=flat-square&label=profile+views"/>
+<a href="https://harshith029.github.io/Portfolio-v2/"><img src="https://img.shields.io/badge/portfolio-online-39d353?style=flat-square&labelColor=161b22&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:harshith.pali3286@gmail.com"><img src="https://img.shields.io/badge/open_to-internships-58a6ff?style=flat-square&labelColor=161b22"/></a>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/rule.svg" width="100%" alt=""/>
 
 </div>
 
-## <img src="assets/pulse.svg" width="28"/> `SYSTEM PROFILE`
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-```bash
-harshith@stark-industries:~$ whoami --verbose
-```
-
-```yaml
-identity:
-  name:    "Harshith"
-  role:    "AI Engineer / Full-Stack Developer"
-  status:  "Suit up. Ship code. Repeat."
-
-currently:
-  building:  "Guardrails and tooling for AI agents"
-  shipping:  "safemigrate-lint — live on PyPI"
-  exploring: "Agent security, entity resolution,
-              and reliability telemetry"
-  learning:  "Distributed systems & system design"
-
-protocols:
-  ask_me_about: [ "Python", "LLM tooling", "Postgres",
-                  "Agent infrastructure" ]
-  open_to:      [ "Internships", "Open Source", "Collabs" ]
-  reach_me_at:  "harshith.pali3286@gmail.com"
-
-fun_fact: "I don't have a suit — I have a keyboard.
-           Same energy, better uptime."
-```
-
-</td>
-<td width="42%" valign="top" align="center">
-
-<img src="assets/arc-reactor.svg" width="260" alt="Arc reactor — powered on"/>
-
-**`ARC REACTOR :: STABLE`**<br/>
-<sub>`POWER OUTPUT ......... 100%`</sub><br/>
-<sub>`CAFFEINE LEVELS ...... 98%`</sub><br/>
-<sub>`BUGS REMAINING ....... ∞`</sub>
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-## <img src="assets/pulse.svg" width="28"/> `THE ARMORY // TECH STACK`
+## `$ whoami`
 
 <div align="center">
 
-`> loading suit configurations...`
+<img src="assets/neofetch.svg" width="100%" alt="harshith029@github — role, languages, focus, current projects"/>
+
+</div>
+
+<div align="center"><img src="assets/rule.svg" width="100%" alt=""/></div>
+
+## `$ ls ~/stack`
+
+<div align="center">
 
 **Languages**
 
@@ -98,161 +53,183 @@ fun_fact: "I don't have a suit — I have a keyboard.
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ai-ml"/>
 <br/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 **Tools & Deployment**
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,postman,aws,vercel&theme=dark" alt="tools"/>
 <br/>
-<img src="https://img.shields.io/badge/PyPI-0D1117?style=for-the-badge&logo=pypi&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/GitHub_Pages-0D1117?style=for-the-badge&logo=githubpages&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="assets/rule.svg" width="100%" alt=""/></div>
 
-## <img src="assets/pulse.svg" width="28"/> `SYSTEM DIAGNOSTICS`
+## `$ git log --stat`
 
 <div align="center">
 
 <img width="49%" src="assets/metrics.svg" alt="profile metrics"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Harshith029&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00D9FF&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BE8A8" alt="streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Harshith029&hide_border=true&background=0D1117&stroke=30363D&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak"/>
 
 <img width="49%" src="assets/metrics-langs.svg" alt="most used languages"/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshith029&bg_color=0D1117&color=00FF41&line=00FF41&point=00D9FF&area=true&area_color=00FF41&hide_border=true&custom_title=CONTRIBUTION%20TELEMETRY" alt="activity graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshith029&bg_color=0D1117&color=39D353&line=39D353&point=C9D1D9&area=true&area_color=26A641&hide_border=true&custom_title=Contribution%20activity" alt="activity graph"/>
 
 <img width="98%" src="https://github-profile-trophy-omega.vercel.app/?username=Harshith029&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="assets/rule.svg" width="100%" alt=""/></div>
 
-## <img src="assets/pulse.svg" width="28"/> `MISSION LOG // PROJECTS`
+## `$ ls ~/projects`
 
-<div align="center">
-
-| `#` | `MISSION` | `TECH DEPLOYED` | `STATUS` |
-|:---:|:---|:---|:---:|
-| `01` | **[safemigrate-lint](https://github.com/Harshith029/safemigrate-lint)** — lints Postgres migrations for operations that break production | `Python` `Static Analysis` | 🟢 [`ON PYPI`](https://pypi.org/project/safemigrate-lint/) |
-| `02` | **[Sentinel](https://github.com/Harshith029/Sentinel)** — provenance-aware security proxy for AI agents | `Python` `AI Security` | 🟢 [`LIVE DEMO`](https://sentinel-i63x.onrender.com) |
-| `03` | **[faultline](https://github.com/Harshith029/faultline)** — self-hosted agent ranking services by multi-signal telemetry drift | `JavaScript` `Observability` | 🟢 [`WRITE-UP`](https://builder.aws.com/content/3AuBMFpv22Kue07Q8ZxD0n1GJGD/aideas-faultline-ai-assisted-predictive-reliability-intelligence-for-distributed-systems) |
-| `04` | **[KARMA](https://github.com/Harshith029/KARMA)** — probabilistic entity resolution for government databases | `Python` `Record Linkage` | 🟡 `ACTIVE` |
-| `05` | **[prompt-debugger](https://github.com/Harshith029/prompt-debugger)** — local-first toolkit for when legitimate prompts trip safeguards | `Python` `LLM Tooling` | 🟡 `ACTIVE` |
-| `06` | **[Portfolio-v2](https://github.com/Harshith029/Portfolio-v2)** — AI engineer & full-stack developer portfolio | `HTML` `JavaScript` | 🟢 [`LIVE`](https://harshith029.github.io/Portfolio-v2/) |
-
-</div>
-
-<details>
-<summary><b><code>&gt; decrypt --archive  // more experiments</code></b></summary>
-
-<br/>
-
-| `MISSION` | `WHAT IT DOES` | `STACK` |
-|:---|:---|:---|
-| **[india-runs-track1](https://github.com/Harshith029/india-runs-track1)** | Deterministic candidate discovery and ranking — [live on Streamlit](https://india-runs-track1-aaqd86g8ktcxvgtvvdevop.streamlit.app/) | `Python` `Streamlit` |
-| **[nemotron-reasoning-solvers](https://github.com/Harshith029/nemotron-reasoning-solvers)** | Offline pipeline for the NVIDIA Nemotron Reasoning Challenge | `Python` `LLM` |
-| **[safemigrate](https://github.com/Harshith029/safemigrate)** | Safety-critical database migration environment for AI agents | `Python` |
-| **[UGV-Pathfinding-AI](https://github.com/Harshith029/UGV-Pathfinding-AI)** | Dijkstra + A\* for autonomous vehicle navigation | `Python` `Algorithms` |
-| **[CSP](https://github.com/Harshith029/CSP)** | Classic Constraint Satisfaction Problem solvers | `Python` `AI` |
-| **[uninformed-search](https://github.com/Harshith029/uninformed-search)** | Modular BFS / DFS / UCS search implementations | `Python` `AI` |
-| **[aqi-reflex-agent](https://github.com/Harshith029/aqi-reflex-agent)** | Reflex agent computing Air Quality Index from sensor data | `Python` `AI` |
-| **[paging-adventure](https://github.com/Harshith029/paging-adventure)** | Gamified OS memory-management simulator | `JavaScript` `OS` |
-| **[Chess-game](https://github.com/Harshith029/Chess-game)** | 2D chess built on HTML5 Canvas | `JavaScript` `Canvas` |
-
-</details>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-## <img src="assets/pulse.svg" width="28"/> `INTRUSION TRACE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Harshith029/Harshith029/output/snake.svg" alt="contribution snake" width="100%"/>
-
-<sub>`the snake eats my commits — powered by GitHub Actions`</sub>
-
-</div>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
-
-## <img src="assets/pulse.svg" width="28"/> `ESTABLISH UPLINK`
-
-<div align="center">
-
-`> opening secure channel...`  `> encryption: enabled`  `> latency: ~24h`
-
-<br/>
-
-<a href="https://www.linkedin.com/in/krishnaharshith/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/></a>
-<a href="mailto:harshith.pali3286@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
-<a href="https://x.com/HPali3286"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF41"/></a>
-<a href="https://github.com/Harshith029"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/></a>
-<a href="https://harshith029.github.io/Portfolio-v2/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF41"/></a>
-<!-- LeetCode: add your real handle and uncomment
-<a href="https://leetcode.com/u/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41"/></a>
--->
-
-<br/>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-`⚡ HIRING`
+### [safemigrate-lint](https://github.com/Harshith029/safemigrate-lint)
 
-<sub>Internships & full-time<br/>AI / backend / platform</sub>
+Lints Postgres migrations for the operations that lock tables and take
+production down with them.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Static_Analysis-0d1117?style=flat-square&labelColor=21262d"/>
+
+[![PyPI](https://img.shields.io/badge/install-pypi-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/safemigrate-lint/)
+[![Stars](https://img.shields.io/github/stars/Harshith029/safemigrate-lint?style=flat-square&color=39d353&labelColor=161b22)](https://github.com/Harshith029/safemigrate-lint)
 
 </td>
-<td align="center" width="34%">
+<td width="50%" valign="top">
 
-`🛠 COLLAB`
+### [Sentinel](https://github.com/Harshith029/Sentinel)
 
-<sub>Open source, agent tooling,<br/>dev-infra experiments</sub>
+A provenance-aware security proxy for AI agents — tracks where each
+instruction actually came from before the agent acts on it.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Security-0d1117?style=flat-square&labelColor=21262d"/>
+
+[![Live](https://img.shields.io/badge/live-demo-46E3B7?style=flat-square&logo=render&logoColor=black)](https://sentinel-i63x.onrender.com)
+[![Stars](https://img.shields.io/github/stars/Harshith029/Sentinel?style=flat-square&color=39d353&labelColor=161b22)](https://github.com/Harshith029/Sentinel)
 
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`💬 JUST TALK`
+### [faultline](https://github.com/Harshith029/faultline)
 
-<sub>LLM guardrails, Postgres,<br/>or why your migration broke</sub>
+Self-hosted agent that ranks services by multi-signal telemetry drift,
+so the shaky one surfaces before it pages you.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Observability-0d1117?style=flat-square&labelColor=21262d"/>
+
+[![Write-up](https://img.shields.io/badge/write--up-AWS_Builder-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://builder.aws.com/content/3AuBMFpv22Kue07Q8ZxD0n1GJGD/aideas-faultline-ai-assisted-predictive-reliability-intelligence-for-distributed-systems)
+[![Stars](https://img.shields.io/github/stars/Harshith029/faultline?style=flat-square&color=39d353&labelColor=161b22)](https://github.com/Harshith029/faultline)
+
+</td>
+<td width="50%" valign="top">
+
+### [KARMA](https://github.com/Harshith029/KARMA)
+
+Probabilistic entity resolution for government databases — deciding
+when two records are the same person without a shared key.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Record_Linkage-0d1117?style=flat-square&labelColor=21262d"/>
+
+[![Repo](https://img.shields.io/badge/source-github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harshith029/KARMA)
+[![Stars](https://img.shields.io/github/stars/Harshith029/KARMA?style=flat-square&color=39d353&labelColor=161b22)](https://github.com/Harshith029/KARMA)
 
 </td>
 </tr>
 </table>
 
-</div>
+<details>
+<summary><b><code>$ ls ~/projects --all</code></b></summary>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+<br/>
 
-## <img src="assets/pulse.svg" width="28"/> `POWER THE REACTOR`
+| Project | What it does | Stack |
+|:---|:---|:---|
+| **[prompt-debugger](https://github.com/Harshith029/prompt-debugger)** | Local-first toolkit for when legitimate prompts trip safeguards | `Python` `LLM` |
+| **[Portfolio-v2](https://github.com/Harshith029/Portfolio-v2)** | Personal site — [live](https://harshith029.github.io/Portfolio-v2/) | `HTML` `JS` |
+| **[india-runs-track1](https://github.com/Harshith029/india-runs-track1)** | Deterministic candidate discovery and ranking — [live](https://india-runs-track1-aaqd86g8ktcxvgtvvdevop.streamlit.app/) | `Python` `Streamlit` |
+| **[nemotron-reasoning-solvers](https://github.com/Harshith029/nemotron-reasoning-solvers)** | Offline pipeline for the NVIDIA Nemotron Reasoning Challenge | `Python` `LLM` |
+| **[safemigrate](https://github.com/Harshith029/safemigrate)** | Safety-critical database migration environment for AI agents | `Python` |
+| **[UGV-Pathfinding-AI](https://github.com/Harshith029/UGV-Pathfinding-AI)** | Dijkstra + A\* for autonomous vehicle navigation | `Python` |
+| **[CSP](https://github.com/Harshith029/CSP)** | Classic Constraint Satisfaction Problem solvers | `Python` |
+| **[uninformed-search](https://github.com/Harshith029/uninformed-search)** | Modular BFS / DFS / UCS implementations | `Python` |
+| **[aqi-reflex-agent](https://github.com/Harshith029/aqi-reflex-agent)** | Reflex agent computing Air Quality Index from sensor data | `Python` |
+| **[paging-adventure](https://github.com/Harshith029/paging-adventure)** | Gamified OS memory-management simulator | `JavaScript` |
+| **[Chess-game](https://github.com/Harshith029/Chess-game)** | 2D chess built on HTML5 Canvas | `JavaScript` |
+
+</details>
+
+<div align="center"><img src="assets/rule.svg" width="100%" alt=""/></div>
+
+## `$ git log --graph`
 
 <div align="center">
 
-<sub>`palladium core running low — refuels accepted in caffeine`</sub>
+<img src="assets/metrics-calendar.svg" width="98%" alt="contribution calendar"/>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/sponsors/Harshith029"><img src="https://img.shields.io/badge/Sponsor_on_GitHub-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=00FF41"/></a>
-<!-- Sign up at buymeacoffee.com / ko-fi.com with these handles, then uncomment:
-<a href="https://www.buymeacoffee.com/harshith029"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-0D1117?style=for-the-badge&logo=buymeacoffee&logoColor=00FF41"/></a>
-<a href="https://ko-fi.com/harshith029"><img src="https://img.shields.io/badge/Ko--fi-0D1117?style=for-the-badge&logo=kofi&logoColor=00FF41"/></a>
--->
+<img src="https://raw.githubusercontent.com/Harshith029/Harshith029/output/snake.svg" width="98%" alt="contribution snake"/>
 
-<br/><br/>
-
-<sub>`or just ⭐ a repo — costs nothing, powers everything`</sub>
+<sub>the snake eats the same grid — regenerated every 12h by Actions</sub>
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+<div align="center"><img src="assets/rule.svg" width="100%" alt=""/></div>
 
-## <img src="assets/pulse.svg" width="28"/> `FIELD COMMENDATIONS`
+## `$ cat contact.txt`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/krishnaharshith/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harshith.pali3286@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/HPali3286"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://github.com/Harshith029"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://harshith029.github.io/Portfolio-v2/"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<!-- LeetCode: add your real handle and uncomment
+<a href="https://leetcode.com/u/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+-->
+
+<br/>
+
+<sub>Open to internships and full-time roles in AI / backend / platform.<br/>
+Happy to talk about agent guardrails, Postgres, or why your migration locked the table.</sub>
+
+</div>
+
+<div align="center"><img src="assets/rule.svg" width="100%" alt=""/></div>
+
+## `$ sudo support`
+
+<div align="center">
+
+<a href="https://github.com/sponsors/Harshith029"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
+<!-- Sign up with these handles, then uncomment:
+<a href="https://www.buymeacoffee.com/harshith029"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+<a href="https://ko-fi.com/harshith029"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+<a href="https://paypal.me/YOUR_HANDLE"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
+-->
+
+<br/>
+
+<sub>or just ⭐ a repo — costs nothing, helps plenty</sub>
+
+</div>
+
+<div align="center"><img src="assets/rule.svg" width="100%" alt=""/></div>
+
+## `$ ls ~/badges`
 
 <div align="center">
 
@@ -273,23 +250,8 @@ fun_fact: "I don't have a suit — I have a keyboard.
 
 <div align="center">
 
-<br/>
+<img src="assets/rule.svg" width="100%" alt=""/>
 
-```console
-harshith@stark-industries:~$ sudo shutdown -h now
-
-[  OK  ] Stopping J.A.R.V.I.S. interface...
-[  OK  ] Arc reactor powering down.......... 12%
-[ WARN ] Coffee reserves critically low.
-[  OK  ] Session archived. Thanks for stopping by.
-
-"Sometimes you gotta run before you can walk."  — T. Stark
-```
-
-<br/>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-<sub>`⭐ star a repo if something here was useful — it powers the reactor`</sub>
+<sub><code>harshith029@github:~$</code> thanks for scrolling this far.</sub>
 
 </div>
