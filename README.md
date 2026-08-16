@@ -189,7 +189,10 @@ fun_fact: "I don't have a suit — I have a keyboard.
 <a href="mailto:harshith.pali3286@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
 <a href="https://x.com/HPali3286"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF41"/></a>
 <a href="https://github.com/Harshith029"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/></a>
-<a href="https://leetcode.com/u/Harshith029"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41"/></a>
+<a href="https://harshith029.github.io/Portfolio-v2/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF41"/></a>
+<!-- LeetCode: add your real handle and uncomment
+<a href="https://leetcode.com/u/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41"/></a>
+-->
 
 <br/><br/>
 
