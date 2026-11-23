@@ -1,6 +1,6 @@
 <!--
   Profile README for github.com/Harshith029
-  SVG assets are generated — edit scripts/gen_assets.py and re-run:
+  SVG assets are generated. Edit scripts/gen_assets.py and re-run:
       python scripts/gen_assets.py
   Stats / languages / contribution calendar are built by GitHub Actions
   (.github/workflows/metrics.yml) and committed into assets/.
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="assets/neofetch.svg" width="100%" alt="harshith029@github — role, languages, focus, current projects"/>
+<img src="assets/neofetch.svg" width="100%" alt="harshith029@github profile card: role, languages, focus, current projects"/>
 
 </div>
 
@@ -96,8 +96,9 @@
 
 ### [safemigrate-lint](https://github.com/Harshith029/safemigrate-lint)
 
-Lints Postgres migrations for the operations that lock tables and take
-production down with them.
+Lints Postgres migration SQL on every pull request. 32 safety rules plus
+7 opt-in style rules, and every finding carries the lock it takes and a
+safe rewrite. On PyPI as version 1.4.0.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Static_Analysis-0d1117?style=flat-square&labelColor=21262d"/>
 
@@ -109,8 +110,9 @@ production down with them.
 
 ### [Sentinel](https://github.com/Harshith029/Sentinel)
 
-A provenance-aware security proxy for AI agents — tracks where each
-instruction actually came from before the agent acts on it.
+A security proxy for Model Context Protocol tools. It labels where every
+message came from and refuses a guarded action when that lineage includes
+untrusted content. Beta, on PyPI as sentinel-prox 0.2.4.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Security-0d1117?style=flat-square&labelColor=21262d"/>
 
@@ -124,8 +126,13 @@ instruction actually came from before the agent acts on it.
 
 ### [faultline](https://github.com/Harshith029/faultline)
 
-Self-hosted agent that ranks services by multi-signal telemetry drift,
-so the shaky one surfaces before it pages you.
+A monitoring agent that scores per-service multivariate drift and ranks
+which service to look at first. Zero runtime dependencies, 287 tests
+passing. Measured precision is about 14 percent, so it is built to rank
+where to look first.
+
+<sub>Top 300 semi-finalist (community-voted round), AWS 10,000 AIdeas
+Competition 2026, with FAULTLINE</sub>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Observability-0d1117?style=flat-square&labelColor=21262d"/>
 
@@ -137,8 +144,15 @@ so the shaky one surfaces before it pages you.
 
 ### [KARMA](https://github.com/Harshith029/KARMA)
 
-Probabilistic entity resolution for government databases — deciding
-when two records are the same person without a shared key.
+Probabilistic entity resolution across Karnataka government department
+systems. It decides when two records describe the same business without a
+shared key, and issues one unified business identifier. On synthetic data
+it resolves 49,868 records into 9,323 identifiers, F1 0.6759 autonomous
+and 0.9493 with a reviewer. No real department data has been processed.
+630+ tests.
+
+<sub>Theme 1 winner, AI for Bharat 2 Hackathon (PAN IIT Bangalore Alumni
+Association and Government of Karnataka), May 2026, with KARMA</sub>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Record_Linkage-0d1117?style=flat-square&labelColor=21262d"/>
 
@@ -157,8 +171,8 @@ when two records are the same person without a shared key.
 | Project | What it does | Stack |
 |:---|:---|:---|
 | **[prompt-debugger](https://github.com/Harshith029/prompt-debugger)** | Local-first toolkit for when legitimate prompts trip safeguards | `Python` `LLM` |
-| **[Portfolio-v2](https://github.com/Harshith029/Portfolio-v2)** | Personal site — [live](https://harshith029.github.io/Portfolio-v2/) | `HTML` `JS` |
-| **[india-runs-track1](https://github.com/Harshith029/india-runs-track1)** | Deterministic candidate discovery and ranking — [live](https://india-runs-track1-aaqd86g8ktcxvgtvvdevop.streamlit.app/) | `Python` `Streamlit` |
+| **[Portfolio-v2](https://github.com/Harshith029/Portfolio-v2)** | Personal site, [live](https://harshith029.github.io/Portfolio-v2/) | `HTML` `JS` |
+| **[india-runs-track1](https://github.com/Harshith029/india-runs-track1)** | Deterministic candidate discovery and ranking, [live](https://india-runs-track1-aaqd86g8ktcxvgtvvdevop.streamlit.app/) | `Python` `Streamlit` |
 | **[nemotron-reasoning-solvers](https://github.com/Harshith029/nemotron-reasoning-solvers)** | Offline pipeline for the NVIDIA Nemotron Reasoning Challenge | `Python` `LLM` |
 | **[safemigrate](https://github.com/Harshith029/safemigrate)** | Safety-critical database migration environment for AI agents | `Python` |
 | **[UGV-Pathfinding-AI](https://github.com/Harshith029/UGV-Pathfinding-AI)** | Dijkstra + A\* for autonomous vehicle navigation | `Python` |
@@ -182,7 +196,7 @@ when two records are the same person without a shared key.
   <img src="https://raw.githubusercontent.com/Harshith029/Harshith029/output/snake-dark.svg" width="100%" alt="a snake eating my contribution grid"/>
 </picture>
 
-<sub>a year of commits, eaten one square at a time — regenerated every 12h by Actions</sub>
+<sub>a year of commits, eaten one square at a time, regenerated every 12h by Actions</sub>
 
 </div>
 
@@ -223,7 +237,7 @@ Happy to talk about agent guardrails, Postgres, or why your migration locked the
 
 <br/>
 
-<sub>or just ⭐ a repo — costs nothing, helps plenty</sub>
+<sub>or just ⭐ a repo. Costs nothing, helps plenty</sub>
 
 </div>
 
